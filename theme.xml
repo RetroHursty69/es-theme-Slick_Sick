@@ -139,7 +139,7 @@ Metadata, description, rating etc
          <pos>1 1</pos>
       </text>
       <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
-         <color>FF0000</color>
+         <color>00f912</color>
          <fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
          <fontSize>0.025</fontSize>
       </text>
